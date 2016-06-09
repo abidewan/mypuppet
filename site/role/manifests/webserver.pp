@@ -1,6 +1,4 @@
-#site.pp
-
-node node1 {
-	include role::webserver	
+class role::webserver {
+	include profile::apache
 }
-	
+
