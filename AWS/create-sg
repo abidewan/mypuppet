@@ -1,0 +1,6 @@
+ec2_securitygroup { test:
+  ensure      => present,
+  description => test,
+  region      => ap-southeast-2,
+}
+
