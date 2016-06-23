@@ -1,0 +1,6 @@
+mod 'puppetlabs/apache', '1.6.0'
+mod 'puppetlabs/stdlib', '4.12.0'
+mod 'puppetlabs/vcsrepo', '1.3.1'
+mod 'puppetlabs/concat', '1.2.4'
+mod 'puppetlabs/mysql', '3.8.0'
+mod 'puppet/staging', '1.0.6'
